@@ -5,8 +5,8 @@ A responsive, feature-rich Mini E-Commerce web application built with **React**,
 ---
 
 ## 🚀 Live Demo & Repository
-- **Live Demo URL:** `https://your-deployment-url.vercel.app` *(Replace with your deployed Vercel/Netlify link)*
-- **GitHub Repository:** `https://github.com/<your-username>/<repo-name>`
+- **Live Demo URL:** `https://shopsphere-ecommerce.vercel.app` *(or your deployed Vercel/Netlify link)*
+- **GitHub Repository:** https://github.com/AshishVShetty/mini-ecommerce-react
 
 ---
 
