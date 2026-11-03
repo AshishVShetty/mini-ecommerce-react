@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "category": "Electronics",
+    "price": 2499,
+    "originalPrice": 3999,
+    "rating": 4.8,
+    "reviewsCount": 142,
+    "inStock": true,
+    "description": "Experience superior studio-grade audio with active noise cancellation, deep bass, and ultra-comfortable memory foam ear cushions. Built for music lovers, gamers, and remote workers.",
+    "features": [
+      "Active Noise Cancellation (ANC)",
+      "Up to 40 hours of playtime",
+      "Bluetooth 5.3 with multipoint pairing",
+      "Fast charging: 10 mins = 4 hours",
+      "Built-in HD microphones"
+    ],
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Series X",
+    "category": "Electronics",
+    "price": 3499,
+    "originalPrice": 4999,
+    "rating": 4.6,
+    "reviewsCount": 98,
+    "inStock": true,
+    "description": "Track your fitness, heart rate, sleep quality, and blood oxygen levels in real time. Featuring an always-on AMOLED display and 100+ sport tracking modes.",
+    "features": [
+      "1.43 inch AMOLED vibrant display",
+      "24/7 Heart Rate & SpO2 monitoring",
+      "IP68 water and dust resistant",
+      "7-day battery life on single charge",
+      "Bluetooth calling and notification alerts"
+    ],
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Classic White Sneakers",
+    "category": "Fashion",
+    "price": 1999,
+    "originalPrice": 2999,
+    "rating": 4.5,
+    "reviewsCount": 115,
+    "inStock": true,
+    "description": "Clean, minimal silhouette crafted with vegan leather and breathable cushioned soles. The perfect daily pair that effortlessly pairs with jeans, shorts, or chinos.",
+    "features": [
+      "Durable vegan leather upper",
+      "OrthoLite cushioned footbed",
+      "Anti-slip rubber outsole",
+      "Breathable textile lining",
+      "Easy-to-clean water resistant finish"
+    ],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Minimalist Urban Backpack",
+    "category": "Accessories",
+    "price": 1499,
+    "originalPrice": 2299,
+    "rating": 4.7,
+    "reviewsCount": 84,
+    "inStock": true,
+    "description": "Engineered for urban commuters and modern travelers. Features a dedicated 15.6-inch padded laptop sleeve, water-repellent fabric, and ergonomic shoulder straps.",
+    "features": [
+      "Dedicated padded 15.6\" laptop compartment",
+      "Water-repellent 900D Oxford nylon",
+      "Hidden anti-theft back pocket",
+      "External USB charging port access",
+      "Breathable air-mesh back padding"
+    ],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Modern Polarized Sunglasses",
+    "category": "Accessories",
+    "price": 999,
+    "originalPrice": 1499,
+    "rating": 4.3,
+    "reviewsCount": 56,
+    "inStock": true,
+    "description": "Timeless unisex frame offering 100% UV400 protection against glare and harmful rays. Lightweight acetate frames built for durability and all-day sun comfort.",
+    "features": [
+      "UV400 Category 3 polarized lenses",
+      "Featherlight acetate frame",
+      "Scratch-resistant coating",
+      "Reinforced stainless steel hinges",
+      "Includes microfiber pouch and hard case"
+    ],
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Vintage Denim Jacket",
+    "category": "Fashion",
+    "price": 2299,
+    "originalPrice": 3199,
+    "rating": 4.6,
+    "reviewsCount": 72,
+    "inStock": true,
+    "description": "Classic trucker silhouette tailored from 100% premium denim. Features washed vintage accents, dual chest flap pockets, and sturdy branded metal buttons.",
+    "features": [
+      "100% heavy cotton denim",
+      "Standard regular fit for easy layering",
+      "Reinforced stitching throughout",
+      "Dual flap chest pockets & welt pockets",
+      "Machine washable with pre-shrunk fabric"
+    ],
+    "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Nordic Minimalist Desk Lamp",
+    "category": "Home",
+    "price": 1299,
+    "originalPrice": 1899,
+    "rating": 4.4,
+    "reviewsCount": 49,
+    "inStock": true,
+    "description": "Elevate your study or workstation with warm ambient lighting. Adjustable flexible neck and smooth touch dimmer for 3 color temperatures that reduce eye strain.",
+    "features": [
+      "3 color modes: Warm, Natural, White",
+      "Stepless touch brightness dimmer",
+      "Flicker-free eye protection LEDs",
+      "Weighted anti-slip base with USB power",
+      "Matte finish powder-coated steel"
+    ],
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Handcrafted Ceramic Coffee Mug",
+    "category": "Home",
+    "price": 499,
+    "originalPrice": 799,
+    "rating": 4.2,
+    "reviewsCount": 63,
+    "inStock": true,
+    "description": "Individually handcrafted ceramic mug with an earthy matte glaze. Ergonomically shaped handle and generous 350ml capacity make every sip a comforting ritual.",
+    "features": [
+      "Capacity: 350 ml (12 oz)",
+      "100% lead-free artisan stoneware",
+      "Microwave and dishwasher safe",
+      "Comfortable broad grip handle",
+      "Heat-retentive ceramic construction"
+    ],
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Portable Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 1799,
+    "originalPrice": 2499,
+    "rating": 4.7,
+    "reviewsCount": 134,
+    "inStock": true,
+    "description": "Compact powerhouse delivering 360-degree room-filling sound with punchy bass. IPX7 waterproof rating lets you take the music anywhere, from pool to camping.",
+    "features": [
+      "IPX7 fully waterproof and dustproof",
+      "16-hour continuous battery life",
+      "TWS pairing for stereo surround",
+      "Punchy 12W audio output with dual radiators",
+      "Integrated lanyard carry loop"
+    ],
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Oversized Fleece Hoodie",
+    "category": "Fashion",
+    "price": 1599,
+    "originalPrice": 2199,
+    "rating": 4.5,
+    "reviewsCount": 89,
+    "inStock": true,
+    "description": "Ultra-soft heavyweight fleece hoodie crafted for relaxed everyday wear. Features a double-lined hood, kangaroo pouch pocket, and ribbed cuffs and hem.",
+    "features": [
+      "350 GSM premium cotton-poly blend fleece",
+      "Relaxed dropped shoulder fit",
+      "Double-lined hood with braided drawstrings",
+      "Roomy front kangaroo pocket",
+      "Colorfast dye with anti-pilling wash"
+    ],
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Genuine Leather Slim Wallet",
+    "category": "Accessories",
+    "price": 799,
+    "originalPrice": 1299,
+    "rating": 4.6,
+    "reviewsCount": 77,
+    "inStock": true,
+    "description": "Slim, front-pocket friendly bi-fold wallet made from full-grain leather. Equipped with RFID-blocking security lining to protect cards from unauthorized scans.",
+    "features": [
+      "RFID blocking security lining",
+      "Holds up to 8 cards plus folded cash",
+      "Quick-access outer thumb-slide slot",
+      "Ultra-slim 0.35\" profile",
+      "Develops unique rich patina over time"
+    ],
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Aroma Essential Oil Diffuser",
+    "category": "Home",
+    "price": 1199,
+    "originalPrice": 1699,
+    "rating": 4.8,
+    "reviewsCount": 105,
+    "inStock": true,
+    "description": "Transform your living space into a tranquil spa. Ultrasonic cool mist technology disperses soothing essential oil fragrances alongside 7 ambient LED light colors.",
+    "features": [
+      "500ml capacity (up to 12 hours run time)",
+      "Whisper-quiet ultrasonic mist (< 23dB)",
+      "Auto shut-off when water runs out",
+      "7 ambient LED night light colors",
+      "4 timer presets (1h, 3h, 6h, continuous)"
+    ],
+    "image": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=800&auto=format&fit=crop&q=80"
+  }
+]
