@@ -359,8 +359,7 @@ export default function Cart() {
                 <input
                   type="text"
                   required
-                  placeholder="e.g. Alex Johnson"
-                  defaultValue="Jane Doe"
+                  placeholder="Enter your full name"
                 />
               </div>
 
@@ -369,19 +368,28 @@ export default function Cart() {
                 <input
                   type="text"
                   required
-                  placeholder="Street address, apartment, suite"
-                  defaultValue="42 Silicon Boulevard, Tech City"
+                  placeholder="House/Flat no., street, locality"
                 />
               </div>
 
               <div className="form-row">
                 <div className="form-group">
                   <label>City</label>
-                  <input type="text" required defaultValue="Bengaluru" />
+                  <input
+                    type="text"
+                    required
+                    placeholder="City"
+                  />
                 </div>
                 <div className="form-group">
                   <label>PIN Code</label>
-                  <input type="text" required defaultValue="560100" />
+                  <input
+                    type="text"
+                    required
+                    placeholder="6-digit PIN code"
+                    pattern="[0-9]{6}"
+                    title="Please enter a 6-digit PIN code"
+                  />
                 </div>
               </div>
 
